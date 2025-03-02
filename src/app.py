@@ -36,7 +36,7 @@ def load_model_and_vocab():
     return model, src_vocab, tgt_vocab, device
 
 def main():
-    st.title("Pseudocode → C++ Code Generator")
+    st.title("TranslodeP2C")
     st.write("Enter your pseudocode below:")
 
     pseudocode_input = st.text_area("Pseudocode", height=200)
