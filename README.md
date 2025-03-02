@@ -68,3 +68,7 @@ Enter pseudocode and get auto-generated C++ code!
 # 🚀 Transform pseudocode into real C++ with TranslodeP2C!
 
 
+![1](https://github.com/user-attachments/assets/996f509a-a77e-458e-a17b-d584c4bfada4)
+![2](https://github.com/user-attachments/assets/77483e06-6686-4fd1-9e08-b58ae5547b19)
+![3](https://github.com/user-attachments/assets/abd103cc-14db-4d4a-be9e-adcb0c9f13ba)
+![4](https://github.com/user-attachments/assets/54e100f7-2a13-4834-a623-a00d84acc226)
